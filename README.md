@@ -23,13 +23,17 @@ Report Publishing: Published the dashboard to Power BI services for easy access 
 - Financial Metrics: Gross price, net sales, pre-invoice deductions, post-invoice deductions, net profit, net invoice sales, gross margin, COGS(Cost of Goods Sold), YTG(Year to Go), YTD(Year to Date).
 - Operational Metrics: Net error.
 ## Dashboard Views
-<ul class="dashboard-views">
-  <li class="finance-view"> ### Finance View: Dynamic P&L table with slicers for flexible data filtering. Detailed analysis of financial performance.</li>
-  <li class="sales-view"> ### Sales View: Customer and product performance based on net sales and gross margin percentage. Identification of top-performing customers and products.</li>
-  <li class="marketing-view"> ### Marketing View: Product-based performance insights. Evaluation of marketing campaign effectiveness.</li>
-  <li class="supply-chain-view"> ### Supply Chain View: Inventory forecasts and net error monitoring. Optimization of supply chain operations.</li>
-  <li class="executive-view"> ### Executive View: Consolidated strategic overview. High-level insights for executive decision-making.</li>
-</ul>
+  ### Finance View:<br>
+  Dynamic P&L table with slicers for flexible data filtering. Detailed analysis of financial performance.
+  ### Sales View: <br>
+  Customer and product performance based on net sales and gross margin percentage. Identification of top-performing customers and products
+  ### Marketing View:<br>
+  Product-based performance insights. Evaluation of marketing campaign effectiveness.
+  ### Supply Chain View:<br>
+  Inventory forecasts and net error monitoring. Optimization of supply chain operations.
+  ### Executive View:<br>
+  Consolidated strategic overview. High-level insights for executive decision-making.
+
 
 ## Impact on AtliQ Hardware
 The Business Insights 360 Dashboard significantly enhanced AtliQ Hardware's decision-making capabilities by providing:
