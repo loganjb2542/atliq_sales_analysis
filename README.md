@@ -1,6 +1,6 @@
 # Business Insights 360 Dashboard: A Comprehensive Solution for AtliQ Hardware
 ## Project Overview
-AtliQ Hardware faced significant difficulties in integrating and analyzing information from diverse sources. This fragmentation of data not only complicated the process of gathering insights but also hindered the company's ability to make well-informed decisions, ultimately affecting its operational efficiency and strategic planningTo address this issue, we developed an interactive dashboard using Power BI to provide key insights across different business functions.
+AtliQ Hardware faced significant difficulties in integrating and analyzing information from diverse sources. This fragmentation of data not only complicated the process of gathering insights but also hindered the company's ability to make well-informed decisions, ultimately affecting its operational efficiency and strategic planning address this issue, we developed an interactive dashboard using Power BI to provide key insights across different business functions.
 
 ## Key Objectives
 Consolidate data from diverse sources for a unified view.
@@ -33,7 +33,7 @@ Report Publishing: Published the dashboard to Power BI services for easy access 
   Product-based performance insights. Evaluation of marketing campaign effectiveness.<br>
   ![Screenshot (333)](https://github.com/user-attachments/assets/1a473bf1-5c59-4e02-bec0-939615c6a113)
   ### Supply Chain View:<br>
-  Inventory forecasts and net error monitoring. Optimization of supply chain operations.<br>
+  Inventory forecasts,net error and net profit% monitoring. Optimization of supply chain operations.<br>
   ![Screenshot (334)](https://github.com/user-attachments/assets/c4882bb8-6296-493f-9422-2909d04799e6)
   ### Executive View:<br>
   Consolidated strategic overview. High-level insights for executive decision-making.<br>
