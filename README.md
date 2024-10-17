@@ -45,7 +45,7 @@ The Business Insights 360 Dashboard significantly enhanced AtliQ Hardware's deci
 - Comprehensive and actionable insights across various business functions.
 - Improved data-driven decision-making.
 - Enhanced operational efficiency.
-- Enhanced customer satisfaction.
+- Enhanced customer satisfaction.<br>
 1.Snapshot(Homepage/Overview)<br>
 ![Screenshot (330)](https://github.com/user-attachments/assets/84b7781f-7bb8-4083-b66b-5b8f8294a20e)
 
