@@ -24,16 +24,20 @@ Report Publishing: Published the dashboard to Power BI services for easy access 
 - Operational Metrics: Net error.
 ## Dashboard Views
   ### Finance View:<br>
-  Dynamic P&L table with slicers for flexible data filtering. Detailed analysis of financial performance.
+  Dynamic P&L table with slicers for flexible data filtering. Detailed analysis of financial performance.<br>
+  ![Screenshot (331)](https://github.com/user-attachments/assets/83bf24e6-4bc7-4a82-a8d9-09712959f55c)
   ### Sales View: <br>
-  Customer and product performance based on net sales and gross margin percentage. Identification of top-performing customers and products
+  Customer and product performance based on net sales and gross margin percentage. Identification of top-performing customers and products<br>
+  ![Screenshot (332)](https://github.com/user-attachments/assets/03161187-f974-4af8-8cf9-d9107f2bcdb6)
   ### Marketing View:<br>
-  Product-based performance insights. Evaluation of marketing campaign effectiveness.
+  Product-based performance insights. Evaluation of marketing campaign effectiveness.<br>
+  ![Screenshot (333)](https://github.com/user-attachments/assets/1a473bf1-5c59-4e02-bec0-939615c6a113)
   ### Supply Chain View:<br>
-  Inventory forecasts and net error monitoring. Optimization of supply chain operations.
+  Inventory forecasts and net error monitoring. Optimization of supply chain operations.<br>
+  ![Screenshot (334)](https://github.com/user-attachments/assets/c4882bb8-6296-493f-9422-2909d04799e6)
   ### Executive View:<br>
-  Consolidated strategic overview. High-level insights for executive decision-making.
-
+  Consolidated strategic overview. High-level insights for executive decision-making.<br>
+  ![Screenshot (335)](https://github.com/user-attachments/assets/8c7d723d-daa4-4c39-b670-a2db0c17eec6)
 
 ## Impact on AtliQ Hardware
 The Business Insights 360 Dashboard significantly enhanced AtliQ Hardware's decision-making capabilities by providing:
@@ -42,7 +46,8 @@ The Business Insights 360 Dashboard significantly enhanced AtliQ Hardware's deci
 - Improved data-driven decision-making.
 - Enhanced operational efficiency.
 - Enhanced customer satisfaction.
-
+1.Snapshot(Homepage/Overview)<br>
+![Screenshot (330)](https://github.com/user-attachments/assets/84b7781f-7bb8-4083-b66b-5b8f8294a20e)
 
 
 
